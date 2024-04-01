@@ -1,0 +1,1 @@
+In this repository you can learn about typescript go to learn.ts file and read everything, comments and all.
